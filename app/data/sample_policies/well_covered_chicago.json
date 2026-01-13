@@ -1,0 +1,39 @@
+{
+    "policy_number": "HO-2024-009012",
+    "customer_profile": {
+        "name": "Robert Williams",
+        "zip_code": "60601",
+        "net_worth": 450000,
+        "home_value": 350000,
+        "vehicles": [
+            {
+                "year": 2021,
+                "make": "Honda",
+                "model": "Accord"
+            }
+        ],
+        "additional_properties": 0,
+        "has_watercraft": false,
+        "has_high_value_items": false
+    },
+    "existing_coverages": [
+        {
+            "coverage_type": "home",
+            "limit": 350000,
+            "deductible": 1000,
+            "premium": 1200
+        },
+        {
+            "coverage_type": "auto",
+            "limit": 250000,
+            "deductible": 500,
+            "premium": 1400
+        },
+        {
+            "coverage_type": "umbrella",
+            "limit": 1000000,
+            "deductible": 0,
+            "premium": 300
+        }
+    ]
+}

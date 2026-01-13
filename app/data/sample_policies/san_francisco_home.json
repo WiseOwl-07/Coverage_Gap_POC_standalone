@@ -1,0 +1,33 @@
+{
+    "policy_number": "HO-2024-005678",
+    "customer_profile": {
+        "name": "Michael Chen",
+        "zip_code": "94102",
+        "net_worth": 750000,
+        "home_value": 1200000,
+        "vehicles": [
+            {
+                "year": 2022,
+                "make": "BMW",
+                "model": "X5"
+            }
+        ],
+        "additional_properties": 0,
+        "has_watercraft": false,
+        "has_high_value_items": false
+    },
+    "existing_coverages": [
+        {
+            "coverage_type": "home",
+            "limit": 1200000,
+            "deductible": 5000,
+            "premium": 3200
+        },
+        {
+            "coverage_type": "auto",
+            "limit": 300000,
+            "deductible": 1000,
+            "premium": 2100
+        }
+    ]
+}

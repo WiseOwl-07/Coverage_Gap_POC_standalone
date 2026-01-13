@@ -1,0 +1,33 @@
+{
+    "policy_number": "HO-2024-001234",
+    "customer_profile": {
+        "name": "Sarah Johnson",
+        "zip_code": "33139",
+        "net_worth": 2500000,
+        "home_value": 850000,
+        "vehicles": [
+            {
+                "year": 2023,
+                "make": "Tesla",
+                "model": "Model S"
+            }
+        ],
+        "additional_properties": 1,
+        "has_watercraft": false,
+        "has_high_value_items": true
+    },
+    "existing_coverages": [
+        {
+            "coverage_type": "home",
+            "limit": 700000,
+            "deductible": 2500,
+            "premium": 2400
+        },
+        {
+            "coverage_type": "auto",
+            "limit": 250000,
+            "deductible": 1000,
+            "premium": 1800
+        }
+    ]
+}
