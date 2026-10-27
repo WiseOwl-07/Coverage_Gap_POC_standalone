@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     log_level: str = "INFO"
     
     # LLM Configuration
-    llm_model: str = "llama-3.3-70b-versatile"  # Groq's latest model
+    llm_model: str = "openai/gpt-oss-120b"  # Groq's latest model
     llm_temperature: float = 0.3  # Lower for more consistent insurance analysis
     
     class Config:
